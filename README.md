@@ -1,4 +1,4 @@
 # Quras
-Health Blockchain
+Secret Smart Contracts Platform.
 
 This blockchain will be supply the secret transaction.
